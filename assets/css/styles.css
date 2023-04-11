@@ -1375,14 +1375,11 @@ ul.container {
     margin-bottom: 25px;
 }
 .contact-section .contact-form .form-group .form-control {
-    background-color: #212121;
-    border: none;
-    border-bottom: 1px solid #1d1d1d;
-    border-radius: 0;
+    background: linear-gradient(#141a20, #232d33);
     font-size: 15px;
     padding: 9px 14px;
-    box-shadow: 0 0 10px rgb(0 0 0 / 85%);
     border-radius: 5px;
+    border: solid 2px #ffffffc7;
 }
 .contact-section .contact-form .form-submit .clickbtn {
     margin-left: 0;
@@ -1414,7 +1411,7 @@ ul.container {
 }
 .contact-section .contact-form .form-group .form-control,
 .contact-section .contact-form .form-group .form-control::placeholder {
-    color: #777;
+    color: #c7c7c7;
 }
 .contact-section .contact-form .form-group .form-control:focus {
     box-shadow: 0 0 10px rgb(0 0 0 / 85%);
