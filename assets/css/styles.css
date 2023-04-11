@@ -541,7 +541,7 @@ li.active {
     border-radius: 50%;
     border: 6px solid #111;
     transition: 0.5s;
-    background-image: linear-gradient(#232323, #141516d1);
+    background-image: linear-gradient(#283137, #394b6a);
 }
 li.active::before {
     content: "";
