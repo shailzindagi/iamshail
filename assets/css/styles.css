@@ -494,7 +494,7 @@ h1.common-title {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #212121;
+    background-color:linear-gradient(276deg, #0b0e13, #2f3c43);
     overflow-y: scroll;
     overflow: visible;
 }
@@ -628,7 +628,7 @@ section.active {
     left: -91%;
     top: -48%;
     z-index: -1;
-    box-shadow: 0 0 7px rgb(255 255 255 / 95%);
+    box-shadow: 11px -12px 35px 10px #ffffff2e;
 }
 .home-profile {
     border-radius: 10px;
